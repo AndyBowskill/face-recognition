@@ -1,0 +1,8 @@
+.navigation {
+    display: flex;
+    justify-content: flex-end;
+    font-size: 1.4rem;
+    background-color: #eee;
+    padding: 10px 10px 10px 10px;
+
+}
