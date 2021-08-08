@@ -1,10 +1,10 @@
-.centre {
+.box.flex {
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
 }
-
-.paragraph {
-    font-size: 1.4rem;
-    background-color: #eee;
-    padding: 10px 10px 10px 10px;
+    
+.box p {
+    background: #eee;
+    font-size: 1.2rem;
+    padding: 10px 10px;
 }
