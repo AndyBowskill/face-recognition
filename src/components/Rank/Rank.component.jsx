@@ -3,7 +3,7 @@ import './Rank.style.css';
 
 const Rank = () => {
     return (
-        <div className="box flex">
+        <div className="rank-box flex">
             <p>Welcome! Your rank is ...</p>
         </div>    
     )

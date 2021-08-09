@@ -1,17 +1,21 @@
-.box.flex {
+.form-box.flex {
     display: flex;
     justify-content: center;
 }
-    
-.box input {
-    background: #eee;
-    font-size: 1rem;
-    padding: 10px 30px;
-    margin:10px 10px;
-    min-width: 40%;
+
+.form-box p {
+    font-size: 1.2rem;
+    padding: 10px 10px;
 }
 
-.box button {
+.form-box input {
+    font-size: 1rem;
+    padding: 10px 30px;
+    margin: 10px 10px;
+    min-width: 50%;
+}
+
+.form-box button {
     background-color: #71a0fb;
     border: none;
     font-size: 1.0rem;
@@ -20,4 +24,11 @@
     margin:10px 10px;
     text-align: center;
     text-decoration: none;
+}
+
+.form-inner {
+    background-color: #fefefe;
+    padding: 20px;
+    border: 2px solid #eee;
+    border-radius: 25px;
 }
