@@ -1,3 +1,3 @@
-# Face recognition web site
+# Face recognition
 
 A React website.
