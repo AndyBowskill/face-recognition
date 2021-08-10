@@ -1,34 +1,35 @@
 .form-box.flex {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 
 .form-box p {
-    font-size: 1.2rem;
-    padding: 10px 10px;
+  font-size: 1.2rem;
+  padding: 10px 10px;
 }
 
 .form-box input {
-    font-size: 1rem;
-    padding: 10px 10px;
-    margin: 10px 10px;
-    min-width: 50%;
+  font-size: 1rem;
+  padding: 10px 10px;
+  margin: 10px 0 10px 10px;
+  min-width: 64%;
 }
 
 .form-box button {
-    background-color: #71a0fb;
-    border: none;
-    font-size: 1.0rem;
-    color: white;
-    padding: 10px 30px;
-    margin:10px 10px;
-    text-align: center;
-    text-decoration: none;
+  background-color: #71a0fb;
+  border: none;
+  font-size: 1rem;
+  color: white;
+  padding: 12px 30px;
+  margin: 10px 10px 10px 0;
+  text-align: center;
+  text-decoration: none;
 }
 
 .form-inner {
-    background-color: #fefefe;
-    padding: 20px;
-    border: 2px solid #eee;
-    border-radius: 25px;
+  background-color: #fefefe;
+  padding: 20px;
+  border: 2px solid #eee;
+  border-radius: 25px;
+  min-width: 50%;
 }
