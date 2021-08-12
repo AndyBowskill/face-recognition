@@ -1,7 +1,7 @@
 .navigation {
     display: flex;
     justify-content: flex-end;
-    font-size: 1.2rem;
+    font-size: 1rem;
     background-color: #fefefe;
     padding: 10px 10px;
     border-bottom: 2px solid #eee;
